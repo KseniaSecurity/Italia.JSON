@@ -27,3 +27,4 @@ Changelog
 - Aggiunta delle regioni e dei comuni, comprendenti di cap e codice istat
 - Regioni ordinate per ordine lessicografico sul nome
 - Lista delle regioni e provincie italiane
+- Aggiornata lista delle provincie con l'aggiunta di Sud Sardegna in attesa dell'istutozionalizzazione di Sulcis Iglesiente
